@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 200px;
+    background-color: #cccccc;
+}
+
+.footer {
+    height: 200px;
+    background-color: #2e353d;
+}
+
+.item {
+    border: 3px solid #000;
+    height: 350px;
+    width: 350px;
+}
